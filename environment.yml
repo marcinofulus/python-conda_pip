@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - k3d
   - pip
+  - nbgrader
   - pip:
     - nbgitpuller
     - sphinx-gallery
