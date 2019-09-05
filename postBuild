@@ -1,1 +1,4 @@
-git clone https://github.com/K3D-tools/K3D-jupyter.git
+# git clone https://github.com/K3D-tools/K3D-jupyter.git
+mkdir -p /srv/nbgrader/exchange
+chmod +rw /srv/nbgrader/exchange
+nbgrader quickstart course01

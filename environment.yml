@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - k3d
   - pip
+  - sqlalchemy==1.2.18
   - nbgrader
   - pip:
     - nbgitpuller
