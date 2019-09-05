@@ -1,5 +1,6 @@
 name: example-environment
 channels:
+  - damianavila82
   - conda-forge
 dependencies:
   - python
@@ -9,6 +10,7 @@ dependencies:
   - sqlalchemy
   - sympy
   - nbgrader
+  - rise
   - pip:
     - nbgitpuller
     - sphinx-gallery
