@@ -1,6 +1,6 @@
 # Using conda with pip in the same build
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/marcinofulus/python-conda_pip/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/marcinofulus/python-conda_pip/master)
 
 If you use `environment.yml`, then Binder will use a Miniconda distribution
 to install your packages. However, you may still want to use `pip`. In
